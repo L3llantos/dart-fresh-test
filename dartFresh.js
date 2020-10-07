@@ -92,7 +92,7 @@ function findLongestArray(x) {
 	const y =selections
 	const possibleAnswer = []
 	for (i=0; i <= x.length; i++){
-		if (x[i]===y[i]){ //if an element in the group is equal to the element in selections add it to possible answer
+		if (x[i]===y[]){ //if an element in the group is equal to the element in selections add it to possible answer
 			answerArray(array.push(possibleAnswer))
 		} 
 
